@@ -1,7 +1,0 @@
-{
-    "editor.cursorSmoothCaretAnimation": "off",
-    "editor.find.closeOnResult": false,
-    "editor.inlineSuggest.edits.allowCodeShifting": "never",
-    "editor.inlineSuggest.edits.showCollapsed": true,
-    "editor.inlineSuggest.enabled": false
-}
